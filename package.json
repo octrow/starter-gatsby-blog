@@ -1,9 +1,9 @@
 {
-  "name": "contentful-starter-gatsby-blog",
-  "description": "Contentful Gatsby Starter Blog",
+  "name": "avgustchern",
+  "description": "фестиваль / лаборатория перфомансов август черный 2022",
   "private": true,
   "version": "0.0.1",
-  "author": "Contentful <opensource@contentful.com>",
+  "author": "avgustchern <avgustchern@gmail.com>",
   "bugs": {
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
@@ -30,11 +30,11 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
+  "homepage": "https://avgustchern.ru",
   "keywords": [
-    "gatsby",
-    "contentful",
-    "starter"
+    "август черный",
+    "фестиваль",
+    "перфомансов"
   ],
   "license": "MIT",
   "main": "n/a",
