@@ -1,11 +1,11 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "август черный",
+  "description": "фестиваль / лаборатория перфомансов август черный 2022",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "август черный",
+    "фестиваль",
+    "перфомансы",
+    "лаборатория"
   ],
   "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
   "success_url": "/",
