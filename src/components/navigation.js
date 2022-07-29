@@ -12,12 +12,22 @@ const Navigation = () => (
     <ul className={styles.navigation}>
       <li className={styles.navigationItem}>
         <Link to="/" activeClassName="active">
-          Home
+          фестиваль
         </Link>
       </li>
       <li className={styles.navigationItem}>
         <Link to="/blog/" activeClassName="active">
-          Blog
+          события
+        </Link>
+      </li>
+      <li className={styles.navigationItem}>
+        <Link to="https://avgustchernyy.timepad.ru/event/2121259/" activeClassName="active">
+          регистрация
+        </Link>
+      </li>
+      <li className={styles.navigationItem}>
+        <Link to="https://avgust.mave.digital/" activeClassName="active">
+          подкаст
         </Link>
       </li>
     </ul>
